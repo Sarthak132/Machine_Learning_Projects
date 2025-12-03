@@ -1,14 +1,28 @@
-# Machine_Learning_Projects
+Hi there! 👋
+Welcome to my Machine Learning project repository.
 
-Hello Folks!!!
+I work as a Data & ML Analyst with hands-on experience in Python and its core libraries:
 
-I am a Data Analyst. 
-I am good with Python Language and its respective libraries such as Scikit-Learn, TensorFlow and Keras, Pandas, Numpy, and MatPlotlib.
- 
-One on whether someone has heart disease or not based on their patient data. It's a simple binary classification problem.
-Another is a regression problem predicting a bulldozer's current market prices based on its usage, model, etc.
-Finally, using TensorFlow and Keras, I worked on a Dog Vision problem. Machine Learning model predicting the dog breed out of 120 breeds. It is an image multi-classification problem.
+Python | Pandas | NumPy | Scikit-Learn | TensorFlow | Keras | Matplotlib
 
-Feel free to look at my projects and get back to me, for anything, be it to suggest, advise, or to simply have a friendly chat. I am all game.
+This repository contains three end-to-end ML projects covering classification, regression, and deep learning:
 
-Cheers!!!
+📌 1. Heart Disease Prediction (Classification)
+
+A binary classification model that predicts whether a patient is likely to have heart disease based on medical attributes.
+Skills: EDA, feature engineering, Scikit-Learn models, evaluation metrics
+
+📌 2. Bulldozer Price Prediction (Regression)
+
+A regression model that estimates the current market price of bulldozers based on historical usage, model details, and auction data.
+Skills: Pandas, time-series features, RandomForestRegressor, model tuning
+
+📌 3. Dog Breed Classification (Deep Learning)
+
+A TensorFlow/Keras CNN model trained to classify dog breeds across 120 categories using image data.
+Skills: Image preprocessing, transfer learning, CNNs, multi-class classification
+
+If you'd like to discuss ML, analytics, or have suggestions for improvement, feel free to reach out.
+Always open to learning and connecting. 🙂
+
+Cheers!
